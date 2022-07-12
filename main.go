@@ -3,7 +3,7 @@ package grpc_gateway_demo
 import (
 	"context"
 	"fmt"
-	"github.com/dainh-2247/grpc-gateway-demo/proto"
+	"github.com/KieenVux/grpc-gateway-demo/proto"
 	"google.golang.org/grpc"
 	"log"
 	"net"
